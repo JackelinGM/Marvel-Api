@@ -37,12 +37,11 @@ const Footer =()=> {
                   style={{ color: "white" }}
                   className="text-uppercase fw-bold mb-4"
                 >
-                  <i className="fas fa-gem me-3"></i>LabZone
+                  <i className="fas fa-gem me-3"></i>Jackelin Melissa Gutierrez Montalban
                 </h6>
                 <p style={{ color: "#ADADAD" }}>
                   {" "}
-                  Plataforma para empleados de Labzone que les permite
-                  visualizar los puntos canjeables de cada producto
+                  Plataforma para buscar los personajes del unniverso de Marvel
                 </p>
               </div>
               <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
@@ -53,21 +52,20 @@ const Footer =()=> {
                   Contacto
                 </h6>
                 <p style={{ color: "#ADADAD" }}>
-                  <i className="fas fa-home me-3"></i> Av. Andres Avelino
-                  Cáceres s/n, Urb, Miraflores 20002, PE
+                  <i className="fas fa-home me-3"></i> California-USA
                 </p>
                 <p style={{ color: "#ADADAD" }}>
-                  <i className="fas fa-envelope me-3"></i>info@labzone.com
+                  <i className="fas fa-envelope me-3"></i>info@marvel.com
                 </p>
                 <p style={{ color: "#ADADAD" }}>
-                  <i className="fas fa-phone me-3"></i> + 01 234 567 88
+                  <i className="fas fa-phone me-3"></i> + 01 234 567 88 369
                 </p>
               </div>
             </div>
           </div>
         </section>
         <div style={{ color: "white" }} className="text-center p-4">
-          © 2021 Copyright: LabZone Puntos
+          © 2021 Copyright: Marvel
         </div>
       </footer>
     </div>
