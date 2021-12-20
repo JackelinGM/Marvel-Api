@@ -24,7 +24,7 @@ Para la creacion de marvel-web se utilizo lo siguiente:
 
 ![img](src/assets/mobil-2.PNG)
 
-![img](src/assets/mobil-3.jpg)
+![img](src/assets/mobil-3.jpeg)
 
 
 ![img](src/assets/mobil.PNG)
