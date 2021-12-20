@@ -26,14 +26,14 @@ Para la creacion de marvel-web se utilizo lo siguiente:
 
 ### Responsive
 
-![img](src/assets/mobil-1.png)
+![img](src/assets/mobil-1.PNG)
 
-![img](src/assets/mobil-2.png)
+![img](src/assets/mobil-2.PNG)
 
 ![img](src/assets/mobil-3.jpeg)
 
 
-![img](src/assets/mobil.png)
+![img](src/assets/mobil.PNG)
 
 
-![img](src/assets/modal.png)
+![img](src/assets/modal.PNG)
